@@ -1,0 +1,7 @@
+tree("Root")
+	fallback
+		sequence
+			Scorer
+			Attack
+			Dribble
+			KickBall 0.4
